@@ -1,0 +1,96 @@
+#mynav{
+    font-size:small;
+    font-weight: 700;
+}
+body{
+    background-color: rgb(249, 255, 254);
+}
+#drop{
+    background-color:cadetblue ;
+}
+#drop a:active{
+    background-color: #16336d;
+}
+#drop2{
+    background-color:cadetblue ;
+}
+#drop2 a:active{
+    background-color: #16336d;
+}
+nav{
+    position: fixed;
+    display: flex;
+}
+#listgrp{
+    margin-top: 20px;
+    font-size: small;
+}
+#expcarousel{
+    margin-top: 20px;
+}
+.card a{
+    background-color: #041e42;
+
+    color: white;
+}
+#row1 .card{
+    margin-top: 20px;
+    height: 500px;
+    
+}
+
+.card-body{
+    background-color: #ffc220;
+
+}
+#foot{
+    text-align: center;
+    background-color:#041e42;
+    margin-top: 20px;
+    
+}
+#foot a, #foot p{
+    color: white;
+    margin-right: 20px;
+}
+#tabs{
+    margin-top: 100px;
+}
+.nav-tabs .nav-link{
+    border: 6px solid transparent;
+}
+#m1{
+    margin-top: 30px;
+}
+.tab-content h4{
+    color: #16336d;
+}
+#m2{
+    margin-top: 30px;
+}
+#enroll{
+    margin-top: 80px;
+    margin-left: 50px;
+    
+}
+#subm{
+    justify-content: center;
+    align-items: center;
+}
+#searchbar{
+    border-top-left-radius: 22px;
+    border-bottom-left-radius: 22px;
+    width: 350px;
+}
+#searchbarbtn{
+    border-top-right-radius: 22px;
+    border-bottom-right-radius: 22px;
+    background-color: #ffc220;
+    width: 40px;
+}
+.nav-item{
+    margin-left: 7px;
+}
+#bodycontainer{
+    margin-top: 70px;
+}
